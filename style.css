@@ -1,0 +1,92 @@
+/* Adım1 div class tasarımı */
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13%;
+    text-align: center;
+}
+
+/* Adım2 div class tasarımı */
+.search-bar {
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/* Adım2 deki search bar(text-box) id tasarımı */
+#text-box {
+    width: 33%;
+}
+
+/* Adım3 div class tasarımı */
+.linker {
+    display: block;
+    height: 75px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 0.3%;
+}
+
+
+/* Adım3 teki 1. kartın id tasarımı */
+#card1 {
+    width: 35%;
+    height: 100%;
+    background-color: rgb(139, 240, 240);
+    float: left;
+    text-align: center;
+    margin-right: 0.1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/* Adım3 teki 2. kartın id tasarımı */
+#card2 {
+    width: 20%;
+    height: 100%;
+    background-color: rgba(99, 192, 192, 0.623);
+    float: left;
+    text-align: center;
+    margin-right: 0.1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/* Adım3 teki 3. kartın id tasarımı */
+#card3 {
+    width: 44.79%;
+    height: 100%;
+    background-color: rgba(55, 104, 104, 0.623);
+    float: left;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/* Adım4 div id tasarımı */
+#footer {
+    text-align: center;
+    margin-top: 0.3%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
